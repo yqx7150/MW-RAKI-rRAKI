@@ -12,11 +12,15 @@ Parallel imaging is widely used in magnetic resonance imaging as an acceleration
 ## run
 ```bash
 python3 mw_raki.py
+python3 mw_rraki.py
 ```
 ## Graphical representation
 The training and reconstruction flowchart of the proposed MW-RAKI.
  <div align="center"><img src="https://github.com/yqx7150/MW-RAKI-rRAKI/blob/main/train_test/docs/images/flowchart.jpg" width = "800" height = "450">  </div>
 Top: The two filters and the auxiliary variable network scheme at the training stage. Bottom: This technique is used for k-space interpolation scan-specific images at the restoration phase.
+
+## Reconstruction Results by Various Methods at 85% 2D Random Undersampling.
+<div align="center"><img src="https://github.com/yqx7150/HGGDP/blob/master/hggdp_rec/sample/fig11.png"> </div>
 
 ## Other Related Projects
   * Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model  
