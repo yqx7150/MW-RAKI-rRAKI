@@ -21,6 +21,7 @@ Top: The two filters and the auxiliary variable network scheme at the training s
 
 ## Reconstruction results on uniform sampling at acceleration factor R=6 and ACS=40.
 <div align="center"><img src="https://github.com/yqx7150/MW-RAKI-rRAKI/blob/main/train_test/docs/images/fig7.jpg"> </div>
+Top: Reference, reconstruction by GRAPPA, RAKI, rRAKI, MW-RAKI, and MW-rRAKI. Bottom: The error maps are magnified by 5 times. Green boxes illustrate the zoom in results.
 
 ## Other Related Projects
   * Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model  
