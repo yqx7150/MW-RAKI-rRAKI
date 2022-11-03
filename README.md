@@ -20,7 +20,7 @@ The training and reconstruction flowchart of the proposed MW-RAKI.
 Top: The two filters and the auxiliary variable network scheme at the training stage. Bottom: This technique is used for k-space interpolation scan-specific images at the restoration phase.
 
 ## Reconstruction results on uniform sampling at acceleration factor R=6 and ACS=40.
-<div align="center"><img src="https://github.com/yqx7150/HGGDP/blob/master/hggdp_rec/sample/fig11.png](https://github.com/yqx7150/MW-RAKI-rRAKI/blob/main/train_test/docs/images/fig7.jpg"> </div>
+<div align="center"><img src="https://github.com/yqx7150/MW-RAKI-rRAKI/blob/main/train_test/docs/images/fig7.jpg"> </div>
 
 ## Other Related Projects
   * Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model  
