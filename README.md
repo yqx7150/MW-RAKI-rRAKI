@@ -1,7 +1,9 @@
 # MW-RAKI-rRAKI
-**Paper**: Multi-Weight Respecification of Scan-Specific Learning for Parallel Imaging https://arxiv.org/abs/2204.01979
+**Paper**: Multi-Weight Respecification of Scan-Specific Learning for Parallel Imaging      
+https://arxiv.org/abs/2204.01979     
+Available at Magnetic Resonance Imaging, 2023, https://www.sciencedirect.com/science/article/abs/pii/S0730725X2200220X
 
-**Authors**: Hui Tao, Wei Zhang,Haifeng Wang,Shanshan Wang,Dong Liang,Xiaoling Xu,Qiegen Liu*,Senior Member,IEEE,Qiegen Liu,Senior Member, IEEE
+**Authors**: Hui Tao, Wei Zhang, Haifeng Wang, Shanshan Wang, Dong Liang, Xiaoling Xu*, Qiegen Liu*
 Date : 5 Apr 2022  
 Version : 1.0  
 The code and the algorithm are for non-comercial use only.  
